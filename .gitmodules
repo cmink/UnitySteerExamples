@@ -1,4 +1,4 @@
 [submodule "Assets/UnitySteer"]
 	path = Assets/UnitySteer
-	url = https://github.com/cmink/UnitySteer.git
+	url = git@github.com:cmink/UnitySteerExamples.git
 	branch = development
